@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DAY02.iml" filepath="$PROJECT_DIR$/.idea/DAY02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance and Polymorphism/Inheritance and Polymorphism.iml" filepath="$PROJECT_DIR$/Inheritance and Polymorphism/Inheritance and Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda Expression/Lambda Expression.iml" filepath="$PROJECT_DIR$/Lambda Expression/Lambda Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream API/Stream API.iml" filepath="$PROJECT_DIR$/Stream API/Stream API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise/exercise.iml" filepath="$PROJECT_DIR$/exercise/exercise.iml" />
+    </modules>
+  </component>
+</project>
